@@ -21,4 +21,8 @@ This repository serves as a platform to showcase my analytical skills and knowle
 
 
 ---
+<<<<<<< HEAD
 I am from Roanoke, Va and have attended Charleston for the past 5 years now. I have a big family with many step siblings and pets. I enoy watching football, playing pickle ball, working out, and spending time with friends and family.Thank you for visiting my site, and I look forward to sharing my work with you!
+=======
+I am from Ronaoke, Va and have attended Charleston for the past 5 years now. I have a big family with many step siblings and pets. I enoy watching football, playing pickleball, working out, and spending time with friends and family.Thank you for visiting my site, and I look forward to sharing my work with you!
+>>>>>>> c37d924f2704866f11882618a056dc184492ba09
