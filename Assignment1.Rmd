@@ -1,0 +1,30 @@
+---
+title: 'Christian Fishers Ethics Projects'
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    df_print: paged
+    code_download: true
+---
+
+# Assignment 1
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
+```
+
+```{r libraries}
+library(tidyverse)         # for graphing and data cleaning
+theme_set(theme_minimal()) # Lisa's favorite theme
+```
+
+# Final Project Ideas 
+A topic I'm interested in using for my final project is a crash reporting data set. This data set would consists of data collected from automobile crashes either in a specific state or city. 
+
+I would find this data on Kaggle, data.gov, or specific transportation websites of a particular state. The data search for a good data set on automobile crashes shouldn't be hard to find since data is being collected each and every day on this particular issue. The cleaning process may be a hard step once I get to that point, due to manual data entries typically resulting in missing data. 
+
+The challenges I foresee myself having is finding a complete data set with not an abundance of missing data, this issue can be solved by removing unimportant data, using place fillers, or inputting a mean or median value for numerical data. Another challenge I inticipate is now understanding the streets or locations an accident took place. For example, A wreck on interstate 7 in Texas, i wouldn't be familiar with, but a wreck on I-81 in Virginia I would be. So, if its not a a Virginia automobile data set I will need to do some additional research to understand the locations the crashes are taking place. 
+
+# Portfolio Podcast
+After listening to the Chapter 4: Building a Portfolio, 
+A portfolio is essentially a collection of Data Analytically projects that I have completed throughout my Analytically career. A portfolio can be useful in many ways including a central point for easy to locate projects I have completed, showcase my analytically skills through codes and visualizations, become apart of a new analytical community, and provides another avenue for future employers to find and see my skills. 

@@ -1,1 +1,2 @@
 # Fisher247.github.io
+I am a current Graduate Student at the University of Charleston (WV) and this repositry is for uploading class assignments to one central locaiton. This allows for all my assignments and class prjects to be on display, while also making it easier to locate them. 

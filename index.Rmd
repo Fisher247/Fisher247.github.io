@@ -1,0 +1,24 @@
+---
+title: "Christian Fisher"
+---
+
+
+# Welcome to My Portfolio
+
+Hello! My name is **Christian Fisher**, and I am currently a graduate student at the **University of Charleston** in West Virginia. I recently earned my undergraduate degree in **Business Analytics** with a concentration in **Sports Business**. Over the past four years, I have achieved numerous accomplishments both academically and athletically as a **Division II football player**.
+
+With a **3.97 GPA**, I have demonstrated a strong commitment to academic excellence while excelling as a starter and leader on the football field. Balancing college athletics and academics has equipped me with invaluable skills, including **time management**, **leadership**, and **self-discipline**.
+
+This repository serves as a platform to showcase my analytical skills and knowledge through class assignments and projects. You can find my **LinkedIn profile** in the top right corner for additional details about my professional journey.
+
+---
+
+## About Me
+
+<div style="text-align: center;">
+  <img src="IMG_3448.jpg" alt="Christian Fisher" style="width: 50%; border-radius: 10px;">
+</div>
+
+
+---
+I am from Roanoke, Va and have attended Charleston for the past 5 years now. I have a big family with many step siblings and pets. I enoy watching football, playing pickle ball, working out, and spending time with friends and family.Thank you for visiting my site, and I look forward to sharing my work with you!

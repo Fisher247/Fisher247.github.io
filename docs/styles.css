@@ -1,0 +1,98 @@
+/* Navbar: Dark blue background and white text */
+.navbar {
+    background-color: #0056b3; /* Dark blue */
+    border-bottom: 3px solid #003f7f; /* Darker blue border */
+}
+
+.navbar a {
+    color: White !important; /* White navbar links */
+}
+
+.navbar a:hover {
+    color: #ffc107 !important; /* Gold hover effect */
+}
+
+/* Dropdown: Make sure the text is visible when not hovered */
+.navbar .dropdown-menu {
+    background-color: #0056b3; /* Dark blue background for dropdown */
+}
+
+.navbar .dropdown-item {
+    color: white; /* White text for dropdown items */
+}
+
+.navbar .dropdown-item:hover {
+    background-color: #003f7f; /* Darker blue background on hover */
+    color: #ffc107; /* Gold text on hover */
+}
+
+/* Body: Light blue background and dark gray text */
+body {
+    background-color: #e7f3ff; /* Light blue */
+    font-family: 'Roboto', sans-serif; /* Modern font */
+    color: #333333; /* Dark gray text */
+}
+
+/* Headers: Dark blue for emphasis */
+h1, h2, h3, h4, h5, h6 {
+    color: #0056b3; /* Dark blue */
+}
+
+/* Links in content: Blue with underline hover */
+a {
+    color: #0056b3;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: #003f7f; /* Darker blue on hover */
+}
+
+/* Code blocks: Light blue background */
+pre {
+    background-color: #d1ecf1; /* Light blue */
+    border: 1px solid #bee5eb; /* Blue border */
+    border-radius: 5px;
+    padding: 10px;
+}
+
+/* Tables: Blue borders and striped rows */
+table {
+    border: 2px solid #0056b3; /* Table border in blue */
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #0056b3; /* Inner table borders */
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #0056b3; /* Dark blue header background */
+    color: white; /* White text for table headers */
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2; /* Light gray for even rows */
+}
+
+/* Buttons: Blue background with hover effects */
+button {
+    background-color: #0056b3; /* Blue button background */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #003f7f; /* Darker blue on hover */
+}
+
+/* Footer: Dark blue background and light text */
+footer {
+    background-color: #003f7f; /* Darker blue */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}

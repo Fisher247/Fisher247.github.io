@@ -1,0 +1,29 @@
+name: "Christian Fisher"
+output_dir: "docs"
+navbar:
+  title: "Analytical Projects"
+  left:
+    - text: "About Me"
+      href: index.html
+    - text: "Ethics Projects"
+      menu: 
+        - text: "Assignment 1"
+          href: Assignment1.html
+  right:
+    - icon: "fa-linkedin"
+      href: "https://www.linkedin.com/in/christian-fisher-40756a237/"
+
+output:
+  html_document:
+    theme: "flatly"
+    highlight: "tango"
+    toc: true
+    toc_float: true
+    css: styles.css
+    
+
+
+
+
+      
+
